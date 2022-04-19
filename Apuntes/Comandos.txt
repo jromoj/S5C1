@@ -4,3 +4,8 @@ Comandos para Git:
     git config --global user.name "Jovanny Romo"
 
     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 (Github)
+    
+    
+Permiso para el BashScript:
+
+    chmod +x program_name
