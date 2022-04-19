@@ -3,7 +3,7 @@ Comandos para Git:
     git config --global user.email "jromoj@unal.edu.co"
     git config --global user.name "Jovanny Romo"
 
-    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 (Github)
+    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 (Github)
     
     
 Permiso para el BashScript:
