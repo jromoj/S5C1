@@ -1,0 +1,6 @@
+Comandos para Git:
+
+    git config --global user.email "jromoj@unal.edu.co"
+    git config --global user.name "Jovanny Romo"
+
+    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 (Github)
