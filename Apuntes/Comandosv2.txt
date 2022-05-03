@@ -2,10 +2,12 @@ Comandos para Git:
 
     git config --global user.email "jromoj@unal.edu.co"
     git config --global user.name "Jovanny Romo"
-
-   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 (Github)
     
-    
-Permiso para el BashScript:
+BashScript:
 
+    #!/bin/bash
     chmod +x program_name
+    
+Instalar Librerías
+
+    pip install 
